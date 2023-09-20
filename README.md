@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @comtus
 - 👀 I’m interested in Java Full Stack Development, DevOps, Linux and AWS
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning HTMX
 
 
 <!---
