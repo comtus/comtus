@@ -1,29 +1,77 @@
-<h1 align="center">Hi 👋, I'm @comtus</h1>
-<h3 align="center">I’m interested in Full Stack Web Development, DevOps, Linux and AWS</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=comtus&label=Profile%20views&color=0e75b6&style=flat" alt="comtus" /> </p>
+# Suresh Kumar Krishnaswamy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comtus" alt="comtus" /></a> </p>
+### Enterprise Architect · Full-Stack Engineering · DevOps · Cloud
 
-- 🌱 **I’m currently learning HTMX, NextJS 14 and Quarkus**
+I design and build dependable systems across the application stack, with a focus on
+**full-stack web development, DevOps, Linux, and AWS**.
 
-- 👨‍💻 All of my projects are available at [https://comtus.github.io/portfolio/](https://comtus.github.io/portfolio/)
+[![Portfolio stars](https://img.shields.io/github/stars/comtus/comtus.github.io?style=for-the-badge&logo=github&label=Portfolio%20stars&color=0A66C2)](https://comtus.github.io/portfolio/)
+[![Article count](https://img.shields.io/github/directory-file-count/comtus/comtus.github.io/_posts?type=file&label=Articles&style=for-the-badge&logo=githubpages&color=222222)](https://comtus.github.io/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sureshkrishnaswamy@outlook.com)
 
-- 📝 I regularly write articles on [https://comtus.github.io/](https://comtus.github.io/)
+![Profile views](https://komarev.com/ghpvc/?username=comtus&label=Profile+views&color=0A66C2&style=flat)
 
-- 📫 How to reach me **sureshkrishnaswamy@outlook.com**
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><br> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <br><a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <br><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><br> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><br> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a><br> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <br><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <br><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><br> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=comtus&show_icons=true&locale=en&layout=compact" alt="comtus" /></p>
+- 🏗️ Enterprise Architect based in Hyderabad, India
+- 🌱 Currently learning **htmx, Next.js 14, and Quarkus**
+- 👨‍💻 Explore all of my projects in my [portfolio](https://comtus.github.io/portfolio/)
+- 📝 Read my articles at [comtus.github.io](https://comtus.github.io/)
+- 📫 Reach me at [sureshkrishnaswamy@outlook.com](mailto:sureshkrishnaswamy@outlook.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=comtus&show_icons=true&locale=en" alt="comtus" /></p>
+## Languages and tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comtus&" alt="comtus" /></p>
+### Cloud, platform, and delivery
 
+<p>
+  <a href="https://aws.amazon.com" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="46" height="46" /></a>&nbsp;
+  <a href="https://kubernetes.io" title="Kubernetes"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.jenkins.io" title="Jenkins"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="46" height="46" /></a>
+</p>
 
-<!---
-comtus/comtus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Application development
+
+<p>
+  <a href="https://www.java.com" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="46" height="46" /></a>&nbsp;
+  <a href="https://go.dev/" title="Go"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="46" height="46" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="46" height="46" /></a>&nbsp;
+  <a href="https://nodejs.org" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="46" height="46" /></a>&nbsp;
+  <a href="https://spring.io/" title="Spring"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.w3.org/html/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="46" height="46" /></a>&nbsp;
+  <a href="https://react.dev/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="46" height="46" /></a>&nbsp;
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="46" height="46" /></a>&nbsp;
+  <a href="https://graphql.org" title="GraphQL"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.electronjs.org" title="Electron"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="46" height="46" /></a>
+</p>
+
+### Data, design, and tooling
+
+<p>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="46" height="46" /></a>&nbsp;
+  <a href="https://redis.io" title="Redis"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="46" height="46" /></a>&nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="46" height="46" /></a>&nbsp;
+  <a href="https://www.unrealengine.com/" title="Unreal Engine"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="46" height="46" /></a>
+</p>
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comtus&theme=transparent" alt="Suresh's GitHub contribution summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=comtus&theme=transparent" alt="Suresh's GitHub stats" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comtus&theme=transparent" alt="Suresh's most-used languages by repository" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=comtus&hide_border=true&theme=transparent" alt="Suresh's GitHub contribution streak" />
+
+</div>
