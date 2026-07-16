@@ -66,11 +66,11 @@ I design and build dependable systems across the application stack, with a focus
 ## GitHub activity
 
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comtus&theme=transparent" alt="Suresh's GitHub contribution summary" />
 
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=comtus&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=comtus&theme=transparent" alt="Suresh's GitHub stats" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comtus&theme=transparent" alt="Suresh's most-used languages by repository" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=comtus&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Suresh's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=comtus&layout=compact&hide_border=true&theme=transparent" alt="Suresh's most-used languages" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=comtus&hide_border=true&theme=transparent" alt="Suresh's GitHub contribution streak" />
 
