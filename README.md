@@ -18,7 +18,7 @@ I design and build dependable systems across the application stack, with a focus
 ## About me
 
 - 🏗️ Enterprise Architect based in Hyderabad, India
-- 🌱 Currently learning **htmx, Next.js 14, and Quarkus**
+- 🌱 Currently exploring agentic workflows using various harnesses like Codex and Claude
 - 👨‍💻 Explore all of my projects in my [portfolio](https://comtus.github.io/portfolio/)
 - 📝 Read my articles at [comtus.github.io](https://comtus.github.io/)
 - 📫 Reach me at [sureshkrishnaswamy@outlook.com](mailto:sureshkrishnaswamy@outlook.com)
