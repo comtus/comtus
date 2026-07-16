@@ -42,28 +42,27 @@ I design and build dependable systems across the application stack, with a focus
 
 ### Application development
 
-<table width="100%">
-  <tr>
-    <td align="center" width="12.5%"><a href="https://www.java.com" title="JVM language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a><br /><sub><b>Java</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://go.dev/" title="Cloud-native language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a><br /><sub><b>Go</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://developer.mozilla.org/docs/Web/JavaScript" title="Web language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a><br /><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://www.typescriptlang.org/" title="Typed JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a><br /><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://nodejs.org" title="JavaScript runtime"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a><br /><sub><b>Node.js</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://spring.io/" title="Java framework"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /></a><br /><sub><b>Spring</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://www.w3.org/html/" title="Web markup"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a><br /><sub><b>HTML5</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://react.dev/" title="UI library"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a><br /><sub><b>React</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="12.5%"><a href="https://tailwindcss.com/" title="Utility-first CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a><br /><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://graphql.org" title="API query language"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" /></a><br /><sub><b>GraphQL</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://www.electronjs.org" title="Desktop applications"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40" /></a><br /><sub><b>Electron</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://astro.build/" title="Content framework"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="40" height="40" /></a><br /><sub><b>Astro</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://nextjs.org/" title="React framework"><img src="https://cdn.simpleicons.org/nextdotjs/6B7280" alt="Next.js" width="40" height="40" /></a><br /><sub><b>Next.js</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://ui.shadcn.com/" title="UI components"><img src="https://cdn.simpleicons.org/shadcnui/64748B" alt="shadcn/ui" width="40" height="40" /></a><br /><sub><b>shadcn/ui</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://reactflow.dev/" title="Node-based UIs"><img src="https://reactflow.dev/icon.svg" alt="React Flow" width="40" height="40" /></a><br /><sub><b>React Flow</b></sub></td>
-    <td align="center" width="12.5%"><a href="https://www.convex.dev/" title="Backend application platform"><img src="https://cdn.simpleicons.org/convex/EE342F" alt="Convex" width="40" height="40" /></a><br /><sub><b>Convex</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.java.com" title="JVM language"><ruby><sub><b>Java</b></sub><rt><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://go.dev/" title="Cloud-native language"><ruby><sub><b>Go</b></sub><rt><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="Web language"><ruby><sub><b>JavaScript</b></sub><rt><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" title="Typed JavaScript"><ruby><sub><b>TypeScript</b></sub><rt><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" title="JavaScript runtime"><ruby><sub><b>Node.js</b></sub><rt><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://spring.io/" title="Java framework"><ruby><sub><b>Spring</b></sub><rt><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" title="Web markup"><ruby><sub><b>HTML5</b></sub><rt><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://react.dev/" title="UI library"><ruby><sub><b>React</b></sub><rt><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></rt></ruby></a>
+</p>
+
+<p align="center">
+  <a href="https://tailwindcss.com/" title="Utility-first CSS"><ruby><sub><b>Tailwind CSS</b></sub><rt><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://graphql.org" title="API query language"><ruby><sub><b>GraphQL</b></sub><rt><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://www.electronjs.org" title="Desktop applications"><ruby><sub><b>Electron</b></sub><rt><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://astro.build/" title="Content framework"><ruby><sub><b>Astro</b></sub><rt><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" title="React framework"><ruby><sub><b>Next.js</b></sub><rt><img src="https://cdn.simpleicons.org/nextdotjs/6B7280" alt="Next.js" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://ui.shadcn.com/" title="UI components"><ruby><sub><b>shadcn/ui</b></sub><rt><img src="https://cdn.simpleicons.org/shadcnui/64748B" alt="shadcn/ui" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://reactflow.dev/" title="Node-based UIs"><ruby><sub><b>React Flow</b></sub><rt><img src="https://reactflow.dev/icon.svg" alt="React Flow" width="40" height="40" /></rt></ruby></a>&nbsp;&nbsp;
+  <a href="https://www.convex.dev/" title="Backend application platform"><ruby><sub><b>Convex</b></sub><rt><img src="https://cdn.simpleicons.org/convex/EE342F" alt="Convex" width="40" height="40" /></rt></ruby></a>
+</p>
 
 ### Cloud, platform, and delivery
 
