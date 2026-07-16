@@ -27,7 +27,7 @@ I design and build dependable systems across the application stack, with a focus
 
 ### AI tools
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="20%"><a href="https://github.com/openai/codex" title="AI coding agent"><img src="https://github.com/openai.png" alt="Codex" width="40" height="40" /></a><br /><sub><b>Codex</b></sub></td>
     <td align="center" width="20%"><a href="https://docs.anthropic.com/en/docs/claude-code/overview" title="Agentic coding CLI"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude Code" width="40" height="40" /></a><br /><sub><b>Claude Code</b></sub></td>
@@ -39,7 +39,7 @@ I design and build dependable systems across the application stack, with a focus
 
 ### Application development
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="20%"><a href="https://www.java.com" title="JVM language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a><br /><sub><b>Java</b></sub></td>
     <td align="center" width="20%"><a href="https://go.dev/" title="Cloud-native language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a><br /><sub><b>Go</b></sub></td>
@@ -72,7 +72,7 @@ I design and build dependable systems across the application stack, with a focus
 
 ### Cloud, platform, and delivery
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="20%"><a href="https://aws.amazon.com" title="Cloud platform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" /></a><br /><sub><b>AWS</b></sub></td>
     <td align="center" width="20%"><a href="https://www.docker.com/" title="Containers"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a><br /><sub><b>Docker</b></sub></td>
@@ -84,7 +84,7 @@ I design and build dependable systems across the application stack, with a focus
 
 ### Data, design, and tooling
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="20%"><a href="https://www.mongodb.com/" title="Document database"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a><br /><sub><b>MongoDB</b></sub></td>
     <td align="center" width="20%"><a href="https://www.mysql.com/" title="Relational database"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a><br /><sub><b>MySQL</b></sub></td>
