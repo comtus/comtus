@@ -18,60 +18,113 @@ I design and build dependable systems across the application stack, with a focus
 ## About me
 
 - 🏗️ Enterprise Architect based in Hyderabad, India
-- 🌱 Currently learning **htmx, Next.js 14, and Quarkus**
+- 🌱 Currently learning how to create **Agentic Workflows using harnesses like Codex and Claude**
 - 👨‍💻 Explore all of my projects in my [portfolio](https://comtus.github.io/portfolio/)
 - 📝 Read my articles at [comtus.github.io](https://comtus.github.io/)
 - 📫 Reach me at [sureshkrishnaswamy@outlook.com](mailto:sureshkrishnaswamy@outlook.com)
 
 ## Languages and tools
 
-### Cloud, platform, and delivery
+### AI tools
 
-<p>
-  <a href="https://aws.amazon.com" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="46" height="46" /></a>&nbsp;
-  <a href="https://kubernetes.io" title="Kubernetes"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.jenkins.io" title="Jenkins"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="46" height="46" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%"><a href="https://github.com/openai/codex" title="AI coding agent"><img src="https://github.com/openai.png" alt="Codex" width="40" height="40" /></a><br /><sub><b>Codex</b></sub></td>
+    <td align="center" width="20%"><a href="https://docs.anthropic.com/en/docs/claude-code/overview" title="Agentic coding CLI"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude Code" width="40" height="40" /></a><br /><sub><b>Claude Code</b></sub></td>
+    <td align="center" width="20%"><a href="https://opencode.ai/" title="Open-source agent"><img src="https://opencode.ai/favicon.svg" alt="OpenCode" width="40" height="40" /></a><br /><sub><b>OpenCode</b></sub></td>
+    <td align="center" width="20%"><a href="https://pi.dev/" title="Minimal agent harness"><img src="https://pi.dev/logo-auto.svg" alt="Pi" width="40" height="40" /></a><br /><sub><b>Pi</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.browserbase.com/" title="Browser infrastructure"><img src="https://www.browserbase.com/favicon.svg" alt="Browserbase" width="40" height="40" /></a><br /><sub><b>Browserbase</b></sub></td>
+  </tr>
+</table>
 
 ### Application development
 
-<p>
-  <a href="https://www.java.com" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="46" height="46" /></a>&nbsp;
-  <a href="https://go.dev/" title="Go"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="46" height="46" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="46" height="46" /></a>&nbsp;
-  <a href="https://nodejs.org" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="46" height="46" /></a>&nbsp;
-  <a href="https://spring.io/" title="Spring"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.w3.org/html/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="46" height="46" /></a>&nbsp;
-  <a href="https://react.dev/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="46" height="46" /></a>&nbsp;
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="46" height="46" /></a>&nbsp;
-  <a href="https://graphql.org" title="GraphQL"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.electronjs.org" title="Electron"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="46" height="46" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%"><a href="https://www.java.com" title="JVM language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="20%"><a href="https://go.dev/" title="Cloud-native language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a><br /><sub><b>Go</b></sub></td>
+    <td align="center" width="20%"><a href="https://developer.mozilla.org/docs/Web/JavaScript" title="Web language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.typescriptlang.org/" title="Typed JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="20%"><a href="https://nodejs.org" title="JavaScript runtime"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a><br /><sub><b>Node.js</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="https://spring.io/" title="Java framework"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /></a><br /><sub><b>Spring</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.w3.org/html/" title="Web markup"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a><br /><sub><b>HTML5</b></sub></td>
+    <td align="center" width="20%"><a href="https://react.dev/" title="UI library"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a><br /><sub><b>React</b></sub></td>
+    <td align="center" width="20%"><a href="https://tailwindcss.com/" title="Utility-first CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a><br /><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="20%"><a href="https://graphql.org" title="API query language"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" /></a><br /><sub><b>GraphQL</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="https://www.electronjs.org" title="Desktop applications"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40" /></a><br /><sub><b>Electron</b></sub></td>
+    <td align="center" width="20%"><a href="https://astro.build/" title="Content framework"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="40" height="40" /></a><br /><sub><b>Astro</b></sub></td>
+    <td align="center" width="20%"><a href="https://nextjs.org/" title="React framework"><img src="https://cdn.simpleicons.org/nextdotjs/6B7280" alt="Next.js" width="40" height="40" /></a><br /><sub><b>Next.js</b></sub></td>
+    <td align="center" width="20%"><a href="https://ui.shadcn.com/" title="UI components"><img src="https://cdn.simpleicons.org/shadcnui/64748B" alt="shadcn/ui" width="40" height="40" /></a><br /><sub><b>shadcn/ui</b></sub></td>
+    <td align="center" width="20%"><a href="https://reactflow.dev/" title="Node-based UIs"><img src="https://reactflow.dev/icon.svg" alt="React Flow" width="40" height="40" /></a><br /><sub><b>React Flow</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="https://www.convex.dev/" title="Backend application platform"><img src="https://cdn.simpleicons.org/convex/EE342F" alt="Convex" width="40" height="40" /></a><br /><sub><b>Convex</b></sub></td>
+    <td align="center" width="20%">&nbsp;</td>
+    <td align="center" width="20%">&nbsp;</td>
+    <td align="center" width="20%">&nbsp;</td>
+    <td align="center" width="20%">&nbsp;</td>
+  </tr>
+</table>
+
+### Cloud, platform, and delivery
+
+<table>
+  <tr>
+    <td align="center" width="20%"><a href="https://aws.amazon.com" title="Cloud platform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" /></a><br /><sub><b>AWS</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.docker.com/" title="Containers"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a><br /><sub><b>Docker</b></sub></td>
+    <td align="center" width="20%"><a href="https://kubernetes.io" title="Orchestration"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a><br /><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.jenkins.io" title="CI/CD automation"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" /></a><br /><sub><b>Jenkins</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.linux.org/" title="Operating system"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a><br /><sub><b>Linux</b></sub></td>
+  </tr>
+</table>
 
 ### Data, design, and tooling
 
-<p>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="46" height="46" /></a>&nbsp;
-  <a href="https://redis.io" title="Redis"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="46" height="46" /></a>&nbsp;
-  <a href="https://git-scm.com/" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="46" height="46" /></a>&nbsp;
-  <a href="https://www.unrealengine.com/" title="Unreal Engine"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="46" height="46" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%"><a href="https://www.mongodb.com/" title="Document database"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a><br /><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.mysql.com/" title="Relational database"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.postgresql.org" title="Relational database"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a><br /><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="20%"><a href="https://redis.io" title="In-memory data"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" /></a><br /><sub><b>Redis</b></sub></td>
+    <td align="center" width="20%"><a href="https://git-scm.com/" title="Version control"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a><br /><sub><b>Git</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="https://www.figma.com/" title="Interface design"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a><br /><sub><b>Figma</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.unrealengine.com/" title="Real-time 3D"><img src="https://cdn.simpleicons.org/unrealengine/6B7280" alt="Unreal Engine" width="40" height="40" /></a><br /><sub><b>Unreal Engine</b></sub></td>
+    <td align="center" width="20%"><a href="https://cucumber.io/" title="BDD testing"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40" /></a><br /><sub><b>Cucumber</b></sub></td>
+    <td align="center" width="20%"><a href="https://www.selenium.dev/" title="Browser automation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" /></a><br /><sub><b>Selenium</b></sub></td>
+    <td align="center" width="20%"><a href="https://oauth.net/2/" title="Authorization protocol"><img src="https://oauth.net/images/oauth-2-sm.png" alt="OAuth 2.0" width="40" height="40" /></a><br /><sub><b>OAuth 2.0</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="https://clerk.com/" title="Identity platform"><img src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" width="40" height="40" /></a><br /><sub><b>Clerk</b></sub></td>
+    <td align="center" width="20%">&nbsp;</td>
+    <td align="center" width="20%">&nbsp;</td>
+    <td align="center" width="20%">&nbsp;</td>
+    <td align="center" width="20%">&nbsp;</td>
+  </tr>
+</table>
 
 ## GitHub activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comtus&theme=transparent" alt="Suresh's GitHub contribution summary" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comtus&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comtus&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comtus&theme=default" alt="Suresh's GitHub contribution summary" />
+</picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=comtus&theme=transparent" alt="Suresh's GitHub stats" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comtus&theme=transparent" alt="Suresh's most-used languages by repository" height="165" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=comtus&theme=github_dark" /><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=comtus&theme=default" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=comtus&theme=default" alt="Suresh's GitHub stats" height="165" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comtus&theme=github_dark" /><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comtus&theme=default" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comtus&theme=default" alt="Suresh's most-used languages by repository" height="165" /></picture>
 
-<img src="https://streak-stats.demolab.com?user=comtus&hide_border=true&theme=transparent" alt="Suresh's GitHub contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=comtus&hide_border=true&theme=github-dark-blue" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=comtus&hide_border=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=comtus&hide_border=true&theme=default" alt="Suresh's GitHub contribution streak" />
+</picture>
 
 </div>
