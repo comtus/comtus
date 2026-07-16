@@ -27,7 +27,7 @@ I design and build dependable systems across the application stack, with a focus
 
 ### AI tools
 
-<p align="center">
+<p align="left">
   <ruby><sub><b>Codex</b></sub><rt><a href="https://github.com/openai/codex" title="AI coding agent"><img src="https://github.com/openai.png" alt="Codex" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Claude Code</b></sub><rt><a href="https://docs.anthropic.com/en/docs/claude-code/overview" title="Agentic coding CLI"><img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>OpenCode</b></sub><rt><a href="https://opencode.ai/" title="Open-source agent"><img src="https://opencode.ai/favicon.svg" alt="OpenCode" width="40" height="40" /></a></rt></ruby>&emsp;
@@ -38,7 +38,7 @@ I design and build dependable systems across the application stack, with a focus
 
 ### Application development
 
-<p align="center">
+<p align="left">
   <ruby><sub><b>Java</b></sub><rt><a href="https://www.java.com" title="JVM language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Go</b></sub><rt><a href="https://go.dev/" title="Cloud-native language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>JavaScript</b></sub><rt><a href="https://developer.mozilla.org/docs/Web/JavaScript" title="Web language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a></rt></ruby>&emsp;
@@ -49,7 +49,7 @@ I design and build dependable systems across the application stack, with a focus
   <ruby><sub><b>React</b></sub><rt><a href="https://react.dev/" title="UI library"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a></rt></ruby>
 </p>
 
-<p align="center">
+<p align="left">
   <ruby><sub><b>Tailwind CSS</b></sub><rt><a href="https://tailwindcss.com/" title="Utility-first CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>GraphQL</b></sub><rt><a href="https://graphql.org" title="API query language"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Electron</b></sub><rt><a href="https://www.electronjs.org" title="Desktop applications"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40" /></a></rt></ruby>&emsp;
@@ -62,7 +62,7 @@ I design and build dependable systems across the application stack, with a focus
 
 ### Cloud, platform, and delivery
 
-<p align="center">
+<p align="left">
   <ruby><sub><b>AWS</b></sub><rt><a href="https://aws.amazon.com" title="Cloud platform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Docker</b></sub><rt><a href="https://www.docker.com/" title="Containers"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Kubernetes</b></sub><rt><a href="https://kubernetes.io" title="Orchestration"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a></rt></ruby>&emsp;
@@ -72,7 +72,7 @@ I design and build dependable systems across the application stack, with a focus
 
 ### Data, design, and tooling
 
-<p align="center">
+<p align="left">
   <ruby><sub><b>MongoDB</b></sub><rt><a href="https://www.mongodb.com/" title="Document database"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>MySQL</b></sub><rt><a href="https://www.mysql.com/" title="Relational database"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>PostgreSQL</b></sub><rt><a href="https://www.postgresql.org" title="Relational database"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a></rt></ruby>&emsp;
@@ -83,7 +83,7 @@ I design and build dependable systems across the application stack, with a focus
   <ruby><sub><b>Cucumber</b></sub><rt><a href="https://cucumber.io/" title="BDD testing"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40" /></a></rt></ruby>
 </p>
 
-<p align="center">
+<p align="left">
   <ruby><sub><b>Selenium</b></sub><rt><a href="https://www.selenium.dev/" title="Browser automation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>OAuth 2.0</b></sub><rt><a href="https://oauth.net/2/" title="Authorization protocol"><img src="https://oauth.net/images/oauth-2-sm.png" alt="OAuth 2.0" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Clerk</b></sub><rt><a href="https://clerk.com/" title="Identity platform"><img src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" width="40" height="40" /></a></rt></ruby>
