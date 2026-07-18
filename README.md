@@ -67,6 +67,8 @@ I design and build dependable systems across the application stack, with a focus
 
 <p align="left">
   <ruby><sub><b>AWS</b></sub><rt><a href="https://aws.amazon.com" title="Cloud platform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" /></a></rt></ruby>&emsp;
+  <ruby><sub><b>Cloudflare</b></sub><rt><a href="https://www.cloudflare.com/" title="Edge cloud platform"><img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" width="40" height="40" /></a></rt></ruby>&emsp;
+  <ruby><sub><b>Vercel</b></sub><rt><a href="https://vercel.com/" title="Frontend deployment platform"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Docker</b></sub><rt><a href="https://www.docker.com/" title="Containers"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Kubernetes</b></sub><rt><a href="https://kubernetes.io" title="Orchestration"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Jenkins</b></sub><rt><a href="https://www.jenkins.io" title="CI/CD automation"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" /></a></rt></ruby>&emsp;
