@@ -7,8 +7,8 @@
 I design and build dependable systems across the application stack, with a focus on
 **full-stack web development, DevOps, Linux, and AWS**.
 
-[![Portfolio stars](https://img.shields.io/github/stars/comtus/comtus.github.io?style=for-the-badge&logo=github&label=Portfolio%20stars&color=0A66C2)](https://comtus.github.io/portfolio/)
-[![Article count](https://img.shields.io/github/directory-file-count/comtus/comtus.github.io/_posts?type=file&label=Articles&style=for-the-badge&logo=githubpages&color=222222)](https://comtus.github.io/)
+[![Visit portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://comtus.pages.dev/portfolio/)
+[![Article count](https://img.shields.io/endpoint?url=https%3A%2F%2Fcomtus.pages.dev%2Fbadges%2Farticles.json&style=for-the-badge&logo=cloudflarepages)](https://comtus.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sureshkrishnaswamy@outlook.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=comtus&label=Profile+views&color=0A66C2&style=flat)
@@ -19,8 +19,8 @@ I design and build dependable systems across the application stack, with a focus
 
 - 🏗️ Enterprise Architect based in Hyderabad, India
 - 🌱 Currently learning how to create **Agentic Workflows using harnesses like Codex and Claude**
-- 👨‍💻 Explore all of my projects in my [portfolio](https://comtus.github.io/portfolio/)
-- 📝 Read my articles at [comtus.github.io](https://comtus.github.io/)
+- 👨‍💻 Explore all of my projects in my [portfolio](https://comtus.pages.dev/portfolio/)
+- 📝 Read my articles at [comtus.pages.dev](https://comtus.pages.dev/)
 - 📫 Reach me at [sureshkrishnaswamy@outlook.com](mailto:sureshkrishnaswamy@outlook.com)
 
 ## Languages and tools
