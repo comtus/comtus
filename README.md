@@ -59,7 +59,8 @@ I design and build dependable systems across the application stack, with a focus
   <ruby><sub><b>React Flow</b></sub><rt><a href="https://reactflow.dev/" title="Node-based UIs"><img src="https://reactflow.dev/icon.svg" alt="React Flow" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>Convex</b></sub><rt><a href="https://www.convex.dev/" title="Backend application platform"><img src="https://cdn.simpleicons.org/convex/EE342F" alt="Convex" width="40" height="40" /></a></rt></ruby>&emsp;
   <ruby><sub><b>tRPC</b></sub><rt><a href="https://trpc.io/" title="End-to-end typesafe APIs"><img src="https://cdn.simpleicons.org/trpc/2596BE" alt="tRPC" width="40" height="40" /></a></rt></ruby>&emsp;
-  <ruby><sub><b>Prisma</b></sub><rt><a href="https://www.prisma.io/" title="TypeScript ORM"><img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="40" height="40" /></a></rt></ruby>
+  <ruby><sub><b>Prisma</b></sub><rt><a href="https://www.prisma.io/" title="TypeScript ORM"><img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="40" height="40" /></a></rt></ruby>&emsp;
+  <ruby><sub><b>Bun</b></sub><rt><a href="https://bun.sh/" title="JavaScript runtime and toolkit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="Bun" width="40" height="40" /></a></rt></ruby>
 </p>
 
 ### Cloud, platform, and delivery
